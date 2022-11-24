@@ -1,0 +1,3 @@
+Hello, Roman Alexandrovich. 
+This is my personal task number 1. 
+And it works. 
